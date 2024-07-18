@@ -38,7 +38,7 @@ This project operates under the MIT License. Refer to the [LICENSE](LICENSE) fil
 Initiate SwiftPortScanner by cloning the repository:
 
 ```sh
-git clone https://github.com/yourusername/SwiftPortScanner.git
+git clone https://github.com/veerendragouda10/SwiftPortScanner.git
 cd SwiftPortScanner
 python3 swift_port_scanner.py TARGET START_PORT END_PORT THREADS
 ```
