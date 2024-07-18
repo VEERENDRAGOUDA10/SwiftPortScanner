@@ -47,10 +47,14 @@ cd SwiftPortScanner
 python3 swift_port_scanner.py TARGET START_PORT END_PORT THREADS
 ```
 
-### 🤝 Collaborative Contributions
 
-Welcoming contributions via pull requests and issue reporting to advance SwiftPortScanner's capabilities.
+Certainly! Here's a concise list of requirements for using "SwiftPortScanner":
 
 ---
 
-This description employs sophisticated language and technical terminology to showcase the tool's efficiency, precision, and suitability for professional network security assessments. Adjust details and commands to match your actual project setup accordingly.
+### Requirements
+
+- Python 3.x
+- CLI proficiency
+- Network access
+- Script execution permission
