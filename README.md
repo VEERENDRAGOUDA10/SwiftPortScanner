@@ -44,8 +44,6 @@ python3 swift_port_scanner.py TARGET START_PORT END_PORT THREADS
 ```
 
 
-Certainly! Here's a concise list of requirements for using "SwiftPortScanner":
-
 
 
 ### Requirements
